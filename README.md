@@ -23,4 +23,8 @@ Este projeto foi criado como atividade acadêmica para:
 - HTML5
 - CSS
 
+The Witcher lives in my blood and guides my path.
 
+<p align="center">
+  <img src="img/witcher2Icon.png" width="450">
+</p>
